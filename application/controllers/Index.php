@@ -5,6 +5,7 @@
  * Date: 2018/2/22
  * Time: 15:27
  */
+defined('BASEPATH') OR exit('No direct script access allowed');
 class Index extends CI_Controller {
 
     /**
